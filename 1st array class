@@ -1,0 +1,7 @@
+#include<stdio.h>
+ int main()
+ {
+     int arr[5]={2,45,34,-1,76};
+     printf("%d",arr[3]);
+     
+ }
